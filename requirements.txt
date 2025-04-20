@@ -1,0 +1,7 @@
+torch
+torchvision
+selenium
+webdriver-manager
+Pillow
+requests
+tqdm
