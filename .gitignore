@@ -1,3 +1,36 @@
+<<<<<<< HEAD
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+env/
+venv/
+ENV/
+
+## 모델 없으면 봇 안돌아가서 일단 주석처리함함
+# Model checkpoints
+#*.pth
+#*.pt
+
+# VSCode & IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+error_screenshot.png
+response_debug.html
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +205,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+>>>>>>> c020b5c2d39638609bfd2ce581d5221bfb7d4e30
