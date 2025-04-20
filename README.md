@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CRNN CAPTCHA 자동입력 봇
 
 이 프로젝트는 학습된 CRNN 모델을 사용하여 웹에서 생성된 CAPTCHA 이미지를 인식하고 자동으로 입력하는 봇입니다.
@@ -16,3 +17,6 @@
 ```bash
 pip install -r requirements.txt
 python run_bot.py
+=======
+# crnn_automation
+>>>>>>> c020b5c2d39638609bfd2ce581d5221bfb7d4e30
