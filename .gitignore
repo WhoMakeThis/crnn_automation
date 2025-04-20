@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+env/
+venv/
+ENV/
+
+# Model checkpoints
+*.pth
+*.pt
+
+# VSCode & IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+error_screenshot.png
+response_debug.html
