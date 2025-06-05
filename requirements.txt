@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 torch
 torchvision
 selenium
@@ -6,12 +5,3 @@ webdriver-manager
 Pillow
 requests
 tqdm
-=======
-torch
-torchvision
-selenium
-webdriver-manager
-Pillow
-requests
-tqdm
->>>>>>> c020b5c2d39638609bfd2ce581d5221bfb7d4e30
